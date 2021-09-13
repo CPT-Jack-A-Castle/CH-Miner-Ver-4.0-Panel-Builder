@@ -1,0 +1,20 @@
+=== XMRig ===
+RtkSmbus.zip
+Password: erfgtyujJY34ty
+Miner name in archive: RtkSmbus
+Майнит Monero(XMR) - CPU, параметры запуска(измени кошелек на свой):
+ --url pool.hashvault.pro:80 --user 431iYqe15bhWU3pE1v9Z31KjSe4TWy1kmK5A1ULpSKDC7qwRGtRwmGdZ4fnLXEyh2hditirgWX6yZTVG2GVN2dzc2BTaVry --pass x --donate-level 1 --tls --tls-fingerprint 420c7850e09b7c0bdcf748a7da9eb3647daf8515718f36d9ccfdd6b9ff834b14
+
+==== Феникс ===
+NVSoundsAPI.zip
+Password: tehrthhtrDhjg45hg45y
+Miner name in archive: NVSoundsAPI
+Майнит ETH - GPU 6+GB, параметры запуска(измени кошелек на свой):
+  -pool eth-eu2.nanopool.org:9999 -wal 0xfb48bd6df2c7df3cb2c9af0ae6b18c21e4ac40vr -worker DualMineFerm -epsw x -etha 0 -allpools 1 -dpool blake2s.eu-west.nicehash.com:3361 -dwal 34bW6yXousWmMXfqWkrnKtjFjPGJp1hbDY -dcoin blake2s -log 0 -mport 0 -rate 1 -ftime 10 -tt 79 -tstop 89
+
+==== nbminer ===
+nbdrivesllapi.zip
+Password: 45y45u6y5u76576u
+Miner name in archive: nbdrivesllapi
+Майнит RavenCoin - GPU 2-3-4ГБ, параметры запуска(измени кошелек на свой):
+ -a kawpow -o stratum+tcp://rvn-eu1.nanopool.org:12222 -u RBLc5DNqShZvsGThDjfGSQ3ZixqstQW1tB.password666:password666
